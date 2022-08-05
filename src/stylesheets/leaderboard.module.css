@@ -1,0 +1,23 @@
+.leaderboard {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 800px;
+    height: 200px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 20px;
+}

@@ -1,0 +1,20 @@
+.questionBox {
+    display: flex;
+    flex-direction: column;
+    height: 15vh;
+    width: 10vw;
+    margin: 0 0.5em 0em 0.5em;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid #4e85c3;
+    border-radius: 10px;
+}
+
+.header,
+.date,
+a {
+    color: #4e85c3;
+    text-decoration: none;
+    padding: 0;
+    font-size: 15px;
+}

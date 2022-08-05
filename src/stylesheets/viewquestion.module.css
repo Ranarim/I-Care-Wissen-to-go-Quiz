@@ -1,0 +1,25 @@
+.box {
+    text-align: center;
+    justify-content: center;
+    margin: 0px 0 0 0;
+}
+
+.yes {
+    border-color: green;
+    background-color: green;
+}
+
+.no {
+    border-color: red;
+    background-color: red;
+}
+
+.notFound {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sorry {
+    margin: 5em 2em 0 -3em;
+}
